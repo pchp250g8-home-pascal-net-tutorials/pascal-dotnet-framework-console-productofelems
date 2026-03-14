@@ -1,4 +1,4 @@
-ProductOfElems. Pascal Tutorials. Platform DotNet FrameWork. Algorithms. Arrays. Console Application. 
+ProductOfElems. Pascal Tutorials. Platform DotNet FrameWork. Algorithms. Arrays. Console Application.
 A console application in the Pascal programming language. 
 The program does the following:
    1. Asks the user to enter the number of elements in the array.
